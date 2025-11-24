@@ -1,0 +1,37 @@
+name: login_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.2
+  flutter_svg: ^2.1.0
+  fluttertoast: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svg/
+    - assets/font/
+
+  # fonts:
+  #   - family: HiMelody
+  #     fonts:
+  #       - asset: assets/font/HiMelody-Regular.ttf
+  #   - family: NanumGothic
+  #     fonts:
+  #       - asset: assets/font/NanumGothic-Regular.ttf
+  #       - asset: assets/font/NanumGothic-Bold.ttf
+  #         weight: 700
