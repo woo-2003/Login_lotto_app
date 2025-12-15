@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856875474030",
+    "project_id": "lottologin-bfd3e",
+    "storage_bucket": "lottologin-bfd3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856875474030:android:9eb0e132f5cbd760b01a7f",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPiYkcKNucgY2JPAcXxOsQMltQtHe_I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
